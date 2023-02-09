@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1640038945 source:c:\users\ousse\documents\uni stuff\fiche de pay (employer dynamique)\employer.c
+
+1640038190 c:\users\ousse\documents\uni stuff\fiche de pay (employer dynamique)\employer.h
+
+1640038917 source:c:\users\ousse\documents\uni stuff\fiche de pay (employer dynamique)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Employer.h"
+	<time.h>
+
+1640038230 c:\users\ousse\documents\uni stuff\fiche de pay (employer dynamique)\employer.c
+	<stdio.h>
+	<stdlib.h>
+	"Employer.h"
+
+1640038823 source:c:\users\ousse\documents\uni stuff\fiche de pay (employer dynamique)\emp.c
+	<stdio.h>
+	<stdlib.h>
+	"Employer.h"
+
